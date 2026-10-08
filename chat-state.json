@@ -1,0 +1,47 @@
+{
+  "groupName": "GOATS",
+  "messages": [
+    {
+      "id": "msg-seed-1",
+      "sender": "system",
+      "text": "Group chat \"GOATS\" initialized. All 4 members (sofi, afiyyy, yufi, nomi) must agree to rename the chat.",
+      "timestamp": "2026-10-07T08:20:44.180Z",
+      "type": "system",
+      "reactions": {}
+    }
+  ],
+  "activeProposal": null,
+  "nameHistory": [
+    {
+      "id": "hist-init",
+      "oldName": "Untitled Group",
+      "newName": "GOATS",
+      "proposedBy": "nomi",
+      "approvedAt": "2026-10-07T08:05:44.181Z"
+    }
+  ],
+  "revealedIdentities": [
+    "nomi",
+    "yufi",
+    "afiyyy",
+    "sofi"
+  ],
+  "accountPasswordModelVersion": 4,
+  "bloomUnlockedUsers": [
+    "nomi",
+    "yufi"
+  ],
+  "userMessageCounts": {
+    "sofi": 0,
+    "afiyyy": 0,
+    "yufi": 0,
+    "nomi": 0
+  },
+  "unlockedBadges": {
+    "sofi": [],
+    "afiyyy": [],
+    "yufi": [],
+    "nomi": []
+  },
+  "badgesResetVersion": 2
+}
